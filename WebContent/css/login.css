@@ -1,0 +1,50 @@
+#backg{
+    background-image: url(../img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#login{
+    text-align: center;
+    width: 400px;
+    height: 280px;
+    border: 1px rgb(221, 208, 208) solid;
+    position: absolute;   
+    top: 50%;   
+    left:50%; 
+    margin: -150px 0 0 -150px; 
+    background: rgb(255, 251, 240,0.5);
+    border: rgb(255, 251, 240,0.5);
+    
+}
+
+input{
+    width: 200px;
+    height: 33px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#log{
+    width: 200px;
+    height: 35px;
+    margin-top: 10px;
+}
+#res{
+    display: block;
+    font-size: 3px;
+    width: 200px;
+    margin-left: 100px;
+}
+#normalUser{
+    background: rgb(255, 251, 240,0);
+    display: inline;
+    border: none;
+}
+p{
+    display: inline;
+}
+#administrator{
+    background: rgb(255, 251, 240,0);
+    display: inline;
+    border: none;
+}
